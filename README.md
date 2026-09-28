@@ -1,16 +1,16 @@
-## Hi there 👋
+# Merhaba, Ben Adil Mammadov 👋
 
-<!--
-**AdilMammadov29/AdilMammadov29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Süleyman Demirel Üniversitesi'nde son sınıf Bilgisayar Mühendisliği öğrencisiyim. Ağırlıklı olarak **Python (Flask)** ile backend mimarileri geliştiriyor, veri işleme/otomasyon süreçleri tasarlıyor ve donanım/ağ simülasyonları üzerine çalışıyorum. 
 
-Here are some ideas to get you started:
+### 🚀 Neler Yapıyorum?
+* **Backend Geliştirme:** Flask, Redis ve SQLite kullanarak performanslı ve önbelleklemeli Web API'leri (örn. FlexiFit) inşa ediyorum.
+* **Nesne Yönelimli Programlama:** C#, Java ve C++ ile OOP prensiplerine uygun algoritmalar ve uygulamalar geliştiriyorum.
+* **Donanım & Ağ:** Arduino (mikrodenetleyiciler, motor sürücüler, Bluetooth) ile devre tasarımları yapıyor, Cisco Packet Tracer ile WAN ağ simülasyonları kuruyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Teknolojiler & Araçlar
+* **Diller:** Python, C#, Java, C, C++
+* **Backend & Veritabanı:** Flask, Redis, SQLite
+* **Araçlar & Ortamlar:** Jupyter Notebook, Visual Studio, Git, Cisco Packet Tracer, SimulIDE, Arduino IDE
+
+---
+📫 **Bana Ulaşın:**www.linkedin.com/in/adil-memmedov-1b2965330    mamedoff2910@gmail.com
