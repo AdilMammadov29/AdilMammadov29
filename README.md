@@ -13,4 +13,4 @@ Süleyman Demirel Üniversitesi'nde son sınıf Bilgisayar Mühendisliği öğre
 * **Araçlar & Ortamlar:** Jupyter Notebook, Visual Studio, Git, Cisco Packet Tracer, SimulIDE, Arduino IDE
 
 ---
-📫 **Bana Ulaşın:**www.linkedin.com/in/adil-memmedov-1b2965330    mamedoff2910@gmail.com
+**Bana Ulaşın:** [LinkedIn Profilim](https://www.linkedin.com/in/adil-memmedov-1b2965330) | mamedoff2910@gmail.com   
